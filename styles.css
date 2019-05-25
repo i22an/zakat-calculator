@@ -1,0 +1,29 @@
+#home-section{
+    height: 100vh;
+    padding-top: 13%;
+}
+.margin-right-20{
+    margin-right: 20px;
+}
+#pages-section{
+    height: 100vh;
+    padding-top: 10%;
+}
+.card-panel{
+    transition: box-shadow .25s, -webkit-box-shadow .25s;
+    padding: 24px;
+    margin: .5rem 0 1rem 0;
+    border-radius: 2px;
+}
+.pages-text{
+    margin-bottom: 45px;
+}
+.pages-text2{
+    margin-bottom: 20px;
+}
+html {
+    scroll-behavior: smooth;
+}
+.brand-logo {
+margin-left: 5px;
+}
